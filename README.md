@@ -18,11 +18,4 @@ Mongoose (ODM)
 JSON Web Tokens (JWT)
 Passport.js (for authentication middleware)
 
-## Features
 
-** Property Listings: ** Browse through a diverse range of property listings, including homes, apartments, and vacation rentals, with detailed descriptions, amenities, and pricing information.
-Search and Filter: Utilize advanced search and filter functionalities to find accommodations based on location, price range, property type, and amenities.
-User Authentication: Register for a new account or log in securely to access personalized features, manage bookings, and save favorite properties.
-Booking Management: Book accommodations seamlessly, review booking details, manage reservation dates, and communicate with hosts through integrated messaging features.
-Host Dashboard: Hosts can manage property listings, update availability calendars, respond to booking requests, and interact with guests through a dedicated dashboard.
-Responsive Design: Enjoy a consistent and intuitive user experience across desktop, tablet, and mobile devices, with responsive layouts and optimized performance.
